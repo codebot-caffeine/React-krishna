@@ -1,0 +1,26 @@
+{
+  "name": "react-akshay",
+  "version": "1.0.0",
+  "description": "react learning from base",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebot-caffeine/React-krishna.git"
+  },
+  "keywords": [
+    "react-akshay",
+    "learn-react"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codebot-caffeine/React-krishna/issues"
+  },
+  "homepage": "https://github.com/codebot-caffeine/React-krishna#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
